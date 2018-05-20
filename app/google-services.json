@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "530805214702",
+    "firebase_url": "https://crushonu-7c0d6.firebaseio.com",
+    "project_id": "crushonu-7c0d6",
+    "storage_bucket": "crushonu-7c0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530805214702:android:902c81b25e7130a5",
+        "android_client_info": {
+          "package_name": "com.als.ado.crushonu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530805214702-rnhtt1qkgpoi1epjfpr7r7d32hdo63cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLYLyUOzi249PiunpPflxSOXlQ5v4T9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
